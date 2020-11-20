@@ -1,0 +1,397 @@
+/*border line for ther website*/
+.double {
+  border-style: double;
+  color: rgb(232,178,198);
+  }
+
+/*nav bar*/
+.topbar{
+    overflow: hidden;
+    background-color:black;
+    
+}
+
+.topbar a{
+    float: left;
+    font-size: 16px;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: dashed;
+}
+
+.topbar a:hover{
+    background-color:rgb(232,178,198) ;
+}
+
+/*media query for nav bar*/
+@media screen and (max-width: 600px) 
+{
+  .topbar a {
+    float: none;
+    width: 100%;
+  }
+}
+
+/*fit the logo to the nav bar*/
+.cover {object-fit: cover;}
+
+/*background*/
+.background{
+  background-color:black;
+}
+
+/*image*/
+img{
+  width:100%;
+  height: auto;
+}
+
+/*title(BLACKPINK)*/
+.text{
+  color:whitesmoke;
+  font-size: 30px;
+  padding: 8px 12px;
+  bottom: 8px;
+  width: 100%;
+  text-align: center;
+}
+
+/*HOME page*/
+.container{
+  padding: 0.01em 16px;
+}
+.content{
+  max-width: 980px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.center{
+  text-align: center!important;
+}
+
+.padding-64{
+  padding-top: 64px!important;
+  padding-bottom: 64px!important;
+}
+
+.wide{
+  letter-spacing: 4px;
+}
+
+.opacity{
+  opacity:0.60;
+}
+
+.h-column{
+  float: left;
+}
+
+.h-column .side{
+  width:25%;
+}
+
+.h-column .middle{
+  width: 50%;
+}
+
+/*media query for mv*/
+@media screen and (max-width: 600px){
+  .h-column.side, .h-column .middle{
+    width: 100%;
+  }
+}
+
+/*border for mv*/
+.video{
+  border: 5px dotted rgb(232,178,198);
+  padding: 15px;
+  background:black;
+  background-clip: borderbox; 
+}
+
+.h-text{
+  color:white;
+  font-size: 18px;
+  padding: 8px 12px;
+  bottom: 8px;
+  width: 100%;
+  text-align: left;
+}
+
+.h-text2{
+  color:white;
+  font-size: 12px;
+  padding: 8px 12px;
+  bottom: 8px;
+  width: 100%;
+  text-align: left;
+}
+
+/*hover on image and popup*/
+.hello-container {
+  position: relative;
+  width: auto;
+}
+
+.hello-image {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.hello-overlay {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background-color:black;
+  overflow: hidden;
+  width: 100%;
+  height: 0;
+  transition: .5s ease;
+}
+
+.hello-container:hover .hello-overlay {
+  height: 50%;
+}
+
+.hello-text {
+  color: white;
+  font-size: 12px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
+
+/*text css*/
+.text2{
+  color:white;
+  font-size: 15px;
+  padding: 8px 12px;
+  bottom: 8px;
+  width: 100%;
+  text-align: center;
+}
+
+/*fade in animation*/
+.fade{animation:opac 0.8s}@keyframes opac{from{opacity:0} to{opacity:1}}
+
+/*member flexbox*/
+html{
+  box-sizing: border-box;
+}
+
+*,*:before,*:after{
+  box-sizing: inherit;
+}
+
+.m-column{
+  float: left;
+  width:25%;
+  margin-bottom:16px;
+  padding: 0 8px;
+}
+
+.m-card{
+  box-shadow: 0 4px 8px 0 rgba(255,255,255,0.2);
+  margin: 8px;
+}
+
+.m-container{
+  padding: 0 16px;
+}
+
+.m-container::after, .row::after{
+  content: "";
+  clear: both;
+  display: table;
+}
+
+/*media query for member flexbox*/
+@media screen and (max-width: 600px){
+  .m-column{
+    width:100%;
+    display: block;
+  }
+}
+
+/*shop flexbox*/
+.s-column{
+  float: left;
+  width:33.33%;
+  margin-bottom:16px;
+  padding: 0 8px;
+}
+
+.s-card{
+  box-shadow: 0 4px 8px 0 rgba(255,255,255,0.2);
+  margin: 8px;
+  background-color: rgb(232,178,198);
+}
+
+.s-container{
+  padding: 0 16px;
+  background-color: black;
+}
+
+.s-container::after, .row::after{
+  content: "";
+  clear: both;
+  display: table;
+}
+
+.s-text{
+  color:rgb(232,178,198);
+  font-size: 15px;
+  padding: 8px 12px;
+  bottom: 8px;
+  width: 100%;
+  text-align: center;
+}
+
+.s2-text{
+  color:rgb(232,178,198);
+  font-size: 12px;
+  padding: 8px 12px;
+  bottom: 8px;
+  width: 100%;
+  text-align: center;
+}
+
+/*concert container*/
+.c-container{
+  border: 1px solid rgb(232,178,198);
+  width:auto;
+  height:auto;
+}
+
+/*form*/
+input[type=text],select,tectarea{
+  width:100%;
+  padding: 12px;
+  border: 1px solid white;
+  border-radius:4px;
+  box-sizing: border-box;
+  margin-top: 6px;
+  margin-bottom: 16px;
+  resize: vertical;
+}
+
+input[type=tel],select,textarea{
+  width:100%;
+  padding: 12px;
+  border: 1px solid white;
+  border-radius:4px;
+  box-sizing: border-box;
+  margin-top: 6px;
+  margin-bottom: 16px;
+  resize: vertical;
+}
+
+input[type=email],select,tectarea{
+  width:100%;
+  padding: 12px;
+  border: 1px solid white;
+  border-radius:4px;
+  box-sizing: border-box;
+  margin-top: 6px;
+  margin-bottom: 16px;
+  resize: vertical;
+}
+
+input[type=date],select,tectarea{
+  width:100%;
+  padding: 12px;
+  border: 1px solid white;
+  border-radius:4px;
+  box-sizing: border-box;
+  margin-top: 6px;
+  margin-bottom: 16px;
+  resize: vertical;
+}
+
+input[type=submit] {
+  background-color:black;
+  color: white;
+  border: 1px solid rgb(232,178,198);
+  padding: 12px 20px;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+input[type=submit]:hover {
+  background-color: #f2f2f2;
+}
+
+/*concert*/
+.con-container {
+  border-radius: 5px;
+  background-color: black;
+  padding: 20px;
+}
+
+/*responsive video*/
+.frame-container {
+  position: relative;
+  width: 100%;
+  overflow: hidden;
+  padding-top: 56.25%; /* 16:9 Aspect Ratio */
+}
+
+.responsive-iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  width: 100%;
+  height: 100%;
+  border: none;
+}
+
+/*Floating Back-To-Top Button*/
+#myBtn {
+    height:30px;
+    width:30px;
+    border-radius: 50%;
+    position: fixed;
+    bottom: 120px;
+    float: right;
+    right: 7%;
+    left: 93%;
+    max-width: 40px;
+    font-size: 12px;
+    border-color:rgb(232,178,198);
+    background-color:black;
+    padding: .5px;
+
+}
+/*On Hover Color Change*/
+#myBtn:hover {
+    background-color:rgb(232,178,198);
+}
+
+/*footer*/
+footer {
+  text-align: center;
+  padding: 3px;
+  background-color:rgb(32, 32, 32);
+  color:white;
+}
+
+.foottext{
+  color:white;
+  font-size: 12px;
+  padding: 8px 12px;
+  bottom: 6px;
+  width: 100%;
+  text-align: center;
+  font:italic;
+}
