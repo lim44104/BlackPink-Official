@@ -348,16 +348,16 @@ template {
   display: none;
 }
 
+/*My CSS*/
 /*border line for ther website*/
 .double {
   border: 4px double rgb(232,178,198);
   }
 
-/*nav bar*/
+/*NAV BAR*/
 .topbar{
     overflow: hidden;
-    background-color:black;
-    
+    background-color:black; 
 }
 
 .topbar a{
@@ -371,7 +371,7 @@ template {
     text-decoration: dashed;
     letter-spacing: 1px;
 }
-
+/*On Hover Color Change*/
 .topbar a:hover{
     background-color:rgb(232,178,198) ;
 }
@@ -388,6 +388,7 @@ template {
 /*fit the logo to the nav bar*/
 .cover {object-fit: cover;}
 
+/*HOME*/
 /*background*/
 .background{
   background-color:black;
@@ -399,7 +400,7 @@ img{
   height: auto;
 }
 
-/*title(BLACKPINK)*/
+/*title(BLACKPINK and all section(HOME,MEMBER,SHOP,CONCERT,CONTACT))*/
 .text{
   color:whitesmoke;
   font-size: 40px;
@@ -409,7 +410,7 @@ img{
   text-align: center;
 }
 
-/*HOME page*/
+/*Content*/
 .container{
   padding: 0.01em 16px;
 }
@@ -428,14 +429,17 @@ img{
   padding-bottom: 64px!important;
 }
 
+/*wide text*/
 .wide{
   letter-spacing: 4px;
 }
 
+/*opacity*/
 .opacity{
   opacity:0.60;
 }
 
+/*music video column*/
 .h-column{
   float: left;
 }
@@ -463,6 +467,7 @@ img{
   background-clip:border-box; 
 }
 
+/*homepage text*/
 .h-text{
   color:white;
   font-size: 22px;
@@ -483,7 +488,7 @@ img{
   font-family: 'Texturina', serif;
 }
 
-/*hover on image and popup*/
+/*hover on image and popup information*/
 .hello-container {
   position: relative;
   width: auto;
@@ -549,7 +554,8 @@ img{
 /*fade in animation*/
 .fade{animation:opac 0.8s}@keyframes opac{from{opacity:0} to{opacity:1}}
 
-/*member flexbox*/
+/*MEMBER*/
+/*Member flexbox*/
 html{
   box-sizing: border-box;
 }
@@ -588,6 +594,7 @@ html{
   }
 }
 
+/*css for link*/
 a:link {
   color:white;
   background-color: transparent;
@@ -598,11 +605,14 @@ a:visited {
   background-color: transparent;
   text-decoration: none;
 }
+/*On Hover Color Change*/
 .text2 a:hover {
   color:rgb(232,178,198);
   background-color: transparent;
   text-decoration: underline;
 }
+
+/*SHOP*/
 /*shop flexbox*/
 .s-column{
   float: left;
@@ -627,7 +637,7 @@ a:visited {
   clear: both;
   display: table;
 }
-
+/*shop text*/
 .s-text{
   color:rgb(232,178,198);
   font-size: 15px;
@@ -658,6 +668,7 @@ a:visited {
   }
 }
 
+/*shop text*/
 .s2-text{
   color:rgb(232,178,198);
   font-size: 12px;
@@ -667,6 +678,7 @@ a:visited {
   text-align: center;
 }
 
+/*CONCERT*/
 /*concert container*/
 .c-container{
   border: 1px solid rgb(232,178,198);
@@ -675,6 +687,7 @@ a:visited {
 }
 
 /*form*/
+/*concert tittle text*/
 .con-text{
   color:white;
   font-size: 25px;
@@ -685,7 +698,7 @@ a:visited {
   font-family: 'Bebas Neue', cursive;
   letter-spacing: 2px;
 }
-
+/*form text*/
 .f-text{
   color:white;
   font-size: 16px;
@@ -696,7 +709,8 @@ a:visited {
   font-family: 'Cairo', sans-serif;
 }
 
-input[type=text],select,tectarea{
+/*CONCERT AND CONTACT*/
+input[type=text],select,textarea{
   width:100%;
   padding: 12px;
   border: 1px solid white;
@@ -718,7 +732,7 @@ input[type=tel],select,textarea{
   resize: vertical;
 }
 
-input[type=email],select,tectarea{
+input[type=email],select,textarea{
   width:100%;
   padding: 12px;
   border: 1px solid white;
@@ -729,7 +743,7 @@ input[type=email],select,tectarea{
   resize: vertical;
 }
 
-input[type=date],select,tectarea{
+input[type=date],select,textarea{
   width:100%;
   padding: 12px;
   border: 1px solid white;
@@ -749,19 +763,19 @@ input[type=submit] {
   cursor: pointer;
   font-family: 'Cairo', sans-serif;
 }
-
+/*On Hover Color Change*/
 input[type=submit]:hover {
   background-color: #f2f2f2;
 }
 
-/*concert*/
+/*concert container*/
 .con-container {
   border-radius: 5px;
   background-color: black;
   padding: 20px;
 }
 
-/*responsive video*/
+/*responsive video (MV)*/
 .frame-container {
   position: relative;
   width: 100%;
@@ -801,7 +815,7 @@ input[type=submit]:hover {
 #myBtn:hover {
     background-color:rgb(232,178,198);
 }
-
+/*media query for back to top button*/
 @media screen and (max-width: 600px){
   #myBtn{
     right: 15%;
@@ -809,14 +823,14 @@ input[type=submit]:hover {
   }
 }
 
-/*footer*/
+/*FOOTER*/
 footer {
   text-align: center;
   padding: 3px;
   background-color:rgb(49, 49, 49);
   color:white;
 }
-
+/*footer text*/
 .foottext{
   color:white;
   font-size: 12px;
