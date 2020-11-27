@@ -59,15 +59,15 @@ This website is for fans and potential fans to discover more about BLACKPINK and
 
 ### Media
 * The photos used in this site were obtained from:
-* https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.se%2Fpin%2F82261130679625992%2F&psig=AOvVaw06huwjMSYMhwcAGSJybcV4&ust=1606555683766000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKim5Li0ou0CFQAAAAAdAAAAABAD
-* https://www.google.com/url?sa=i&url=https%3A%2F%2Fwall.alphacoders.com%2Fby_sub_category.php%3Fid%3D271851%26name%3DBlackPink%2BWallpapers&psig=AOvVaw06huwjMSYMhwcAGSJybcV4&ust=1606555683766000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKim5Li0ou0CFQAAAAAdAAAAABAK
-* https://www.google.com/url?sa=i&url=https%3A%2F%2Fwallpaperscute.com%2Fblackpink-desktop-backgrounds-hd-9504%2F&psig=AOvVaw06huwjMSYMhwcAGSJybcV4&ust=1606555683766000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKim5Li0ou0CFQAAAAAdAAAAABAR
-* https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F724024077568691602%2F&psig=AOvVaw06huwjMSYMhwcAGSJybcV4&ust=1606555683766000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKim5Li0ou0CFQAAAAAdAAAAABAY
-* https://kpop.fandom.com/wiki/Jisoo_(BLACKPINK)
-* https://black-pink.fandom.com/wiki/Jennie
-* https://kpop.fandom.com/wiki/Ros%C3%A9
-* https://kpop.fandom.com/wiki/Lisa
-* https://www.google.com/url?sa=i&url=https%3A%2F%2Fsg.carousell.com%2Fp%2Fblackpink-in-you-area-concert-singapore-205396992%2F&psig=AOvVaw224xJjiH5xF8kVgX6o8GFc&ust=1606555971819000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNjbpsK1ou0CFQAAAAAdAAAAABAD
+  * https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.se%2Fpin%2F82261130679625992%2F&psig=AOvVaw06huwjMSYMhwcAGSJybcV4&ust=1606555683766000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKim5Li0ou0CFQAAAAAdAAAAABAD
+  * https://www.google.com/url?sa=i&url=https%3A%2F%2Fwall.alphacoders.com%2Fby_sub_category.php%3Fid%3D271851%26name%3DBlackPink%2BWallpapers&psig=AOvVaw06huwjMSYMhwcAGSJybcV4&ust=1606555683766000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKim5Li0ou0CFQAAAAAdAAAAABAK
+  * https://www.google.com/url?sa=i&url=https%3A%2F%2Fwallpaperscute.com%2Fblackpink-desktop-backgrounds-hd-9504%2F&psig=AOvVaw06huwjMSYMhwcAGSJybcV4&ust=1606555683766000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKim5Li0ou0CFQAAAAAdAAAAABAR
+  * https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F724024077568691602%2F&psig=AOvVaw06huwjMSYMhwcAGSJybcV4&ust=1606555683766000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKim5Li0ou0CFQAAAAAdAAAAABAY
+  * https://kpop.fandom.com/wiki/Jisoo_(BLACKPINK)
+  * https://black-pink.fandom.com/wiki/Jennie
+  * https://kpop.fandom.com/wiki/Ros%C3%A9
+  * https://kpop.fandom.com/wiki/Lisa
+  * https://www.google.com/url?sa=i&url=https%3A%2F%2Fsg.carousell.com%2Fp%2Fblackpink-in-you-area-concert-singapore-205396992%2F&psig=AOvVaw224xJjiH5xF8kVgX6o8GFc&ust=1606555971819000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNjbpsK1ou0CFQAAAAAdAAAAABAD
 
 
 ### Acknowledgements
