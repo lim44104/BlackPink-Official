@@ -5,7 +5,7 @@ This project is an official website of a korean girl group, BLACKPINK. This webs
 
 This website is for fans and potential fans to discover more about BLACKPINK and learn more about BLACKPINK. Fan could bought their favourite product and concert tickets through this website. They could also get to know more about group member through this website and their social media account. They could also enjoy the gallery and photo through this website. They could check out the latest music video and the introduction through this website too.
 
-* As a fan, I want to buy BLACKPINK products and concert ticket, so that I can get a ticket and enter the concert with my favourite product such as tshirt, hoodie and so on.
+* As a fan, I want to get to know about BLACKPINK, buy BLACKPINK products and concert ticket, so that I can get a ticket and enter the concert with my favourite product such as tshirt, hoodie and so on.
 
 * XD file
   * Desktop: https://xd.adobe.com/view/dc28e40d-971a-45fc-819a-dbb71d6be196-897b/
@@ -38,7 +38,7 @@ This website is for fans and potential fans to discover more about BLACKPINK and
 * Video- Music video in home page (responsive)
 * Gallery- Photos in home page (responsive)
 * Flexbox- Columns in member and shop page (responsive)
-* Member Flexbox- Each member's column link to their instagram account. When you hover on their ig name it will change color and it also link to their instagram account.
+* Member Flexbox- Each member's image linked to their instagram account. When you hover on their ig name it will change color and it also linked to their instagram account.
 * Form- Form in concert page and contact page (responsive)
 * Footer- Include media social icon which link to the real social media account.
 * Top button- A button which is fixed position at the right side will jump to the top when user click on it, so user do not need to scroll up to go back to the top.
@@ -53,13 +53,25 @@ This website is for fans and potential fans to discover more about BLACKPINK and
 ## Credits
 
 ### Content
-* The text for all the section was created by Lim Xuan Qing.
+* The text for home page section is copied from the [Wikipedia-BlackPink](https://en.wikipedia.org/wiki/Blackpink)
+* The text for music video section is copied from the [Wikipedia-Lovesicks Girl](https://en.wikipedia.org/wiki/Lovesick_Girls)
+* The text for member page section is copied from the [Wikipedia-Jisoo](https://en.wikipedia.org/wiki/Jisoo),[Wikipedia-Jennie](https://en.wikipedia.org/wiki/Jennie_(singer)),[Wikipedia-Rose](https://en.wikipedia.org/wiki/Ros%C3%A9_(singer)) and [Wikipedia-Lisa]https://en.wikipedia.org/wiki/Lisa_(rapper)()
 
 ### Media
-* No photo used
+* The photos used in this site were obtained from:
+* https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.se%2Fpin%2F82261130679625992%2F&psig=AOvVaw06huwjMSYMhwcAGSJybcV4&ust=1606555683766000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKim5Li0ou0CFQAAAAAdAAAAABAD
+* https://www.google.com/url?sa=i&url=https%3A%2F%2Fwall.alphacoders.com%2Fby_sub_category.php%3Fid%3D271851%26name%3DBlackPink%2BWallpapers&psig=AOvVaw06huwjMSYMhwcAGSJybcV4&ust=1606555683766000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKim5Li0ou0CFQAAAAAdAAAAABAK
+* https://www.google.com/url?sa=i&url=https%3A%2F%2Fwallpaperscute.com%2Fblackpink-desktop-backgrounds-hd-9504%2F&psig=AOvVaw06huwjMSYMhwcAGSJybcV4&ust=1606555683766000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKim5Li0ou0CFQAAAAAdAAAAABAR
+* https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F724024077568691602%2F&psig=AOvVaw06huwjMSYMhwcAGSJybcV4&ust=1606555683766000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKim5Li0ou0CFQAAAAAdAAAAABAY
+* https://kpop.fandom.com/wiki/Jisoo_(BLACKPINK)
+* https://black-pink.fandom.com/wiki/Jennie
+* https://kpop.fandom.com/wiki/Ros%C3%A9
+* https://kpop.fandom.com/wiki/Lisa
+* https://www.google.com/url?sa=i&url=https%3A%2F%2Fsg.carousell.com%2Fp%2Fblackpink-in-you-area-concert-singapore-205396992%2F&psig=AOvVaw224xJjiH5xF8kVgX6o8GFc&ust=1606555971819000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNjbpsK1ou0CFQAAAAAdAAAAABAD
+
 
 ### Acknowledgements
-* I received inspiration for this project from BLACKPINK and myself.
+* I received inspiration for this project from BLACKPINK and ID lecture.
 
 
 
