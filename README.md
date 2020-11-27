@@ -55,7 +55,7 @@ This website is for fans and potential fans to discover more about BLACKPINK and
 ### Content
 * The text for home page section is copied from the [Wikipedia-BlackPink](https://en.wikipedia.org/wiki/Blackpink)
 * The text for music video section is copied from the [Wikipedia-Lovesicks Girl](https://en.wikipedia.org/wiki/Lovesick_Girls)
-* The text for member page section is copied from the [Wikipedia-Jisoo](https://en.wikipedia.org/wiki/Jisoo),[Wikipedia-Jennie](https://en.wikipedia.org/wiki/Jennie_(singer)),[Wikipedia-Rose](https://en.wikipedia.org/wiki/Ros%C3%A9_(singer)) and [Wikipedia-Lisa]https://en.wikipedia.org/wiki/Lisa_(rapper)()
+* The text for member page section is copied from the [Wikipedia-Jisoo](https://en.wikipedia.org/wiki/Jisoo),[Wikipedia-Jennie](https://en.wikipedia.org/wiki/Jennie_(singer)),[Wikipedia-Rose](https://en.wikipedia.org/wiki/Ros%C3%A9_(singer)) and [Wikipedia-Lisa](https://en.wikipedia.org/wiki/Lisa_(rapper))
 
 ### Media
 * The photos used in this site were obtained from:
