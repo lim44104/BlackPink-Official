@@ -1,6 +1,10 @@
 # ID_Assignment01
 This project is an official website of a korean girl group, BLACKPINK. This website let users learn more about the group's history and group members, and some additional features. For example, check out the latest music video and gallery, buy BLACKPINK's product, buy concert ticket and get blackpink's social media account.
 
+*GitHub Link:
+  *Repo: https://github.com/lim44104/ID_Assignment01
+  *Website: https://lim44104.github.io/ID_Assignment01/
+
 ## Design Process
 
 This website is for fans and potential fans to discover more about BLACKPINK and learn more about BLACKPINK. Fan could bought their favourite product and concert tickets through this website. They could also get to know more about group member through this website and their social media account. They could also enjoy the gallery and photo through this website. They could check out the latest music video and the introduction through this website too.
